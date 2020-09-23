@@ -1,2 +1,2 @@
 # windows
-windows server configs
+windows configs
