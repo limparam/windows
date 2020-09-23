@@ -1,2 +1,2 @@
 # windows
-windows configs
+windows config files
