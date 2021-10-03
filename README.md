@@ -1,2 +1,2 @@
-# windows
+# windows!
 windows config files
