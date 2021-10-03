@@ -18,13 +18,13 @@
             </OOBE>
             <UserAccounts>
                 <AdministratorPassword>
-                    <Value>LOCALADMINPASSWORD</Value>
+                    <Value>LOCALADMINPASSWORD_chenge_this_with_windows_ADK</Value>
                     <PlainText>false</PlainText>
                 </AdministratorPassword>
             </UserAccounts>
             <AutoLogon>
                 <Password>
-                    <Value>LOCALADMINPASSWORD</Value>
+                    <Value>LOCALADMINPASSWORD_chenge_this_with_windows_ADK</Value>
                     <PlainText>false</PlainText>
                 </Password>
                 <Username>administrator</Username>

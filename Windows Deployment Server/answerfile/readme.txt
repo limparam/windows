@@ -15,3 +15,7 @@ Security settings fo this folder - Everyone Read & execute
 
 2) Setup answer file to your install.wim
 3) Copy bat file to your share location
+
+
+============================================
+Answer file edit with https://docs.microsoft.com/ru-ru/windows-hardware/get-started/adk-install
