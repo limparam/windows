@@ -18,4 +18,4 @@ Security settings fo this folder - Everyone Read & execute
 
 
 ============================================
-Answer file edit with https://docs.microsoft.com/ru-ru/windows-hardware/get-started/adk-install
+Answer file edit with https://docs.microsoft.com/ru-ru/windows-hardware/get-started/adk-install 

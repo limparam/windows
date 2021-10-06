@@ -1,0 +1,33 @@
+Fresh apps notes
+
+Google chrome
+https://enterprise.google.com/chrome/chrome-browser/thankyou.html?platform=win64bundle
+
+Mozilla Firefox
+https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US
+
+Far manager
+https://www.farmanager.com/download.php?l=ru
+
+Paint.NET
+https://www.dotpdn.com/downloads/pdn.html
+/createMsi
+
+Adobe Reader DC
+https://get.adobe.com/ru/reader/enterprise/
+
+Nextcloud
+https://download.nextcloud.com/desktop/releases/Windows/
+
+LibreOffice
+https://www.libreoffice.org/download/download/
+
+Microsoft teams msi
+http://aka.ms/teams64bitmsi
+
+
+Punto switcher
+https://yandex.ru/soft/punto/download/?os=win
+
+Power BI
+https://aka.ms/pbiSingleInstaller

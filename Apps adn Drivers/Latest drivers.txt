@@ -1,0 +1,9 @@
+Fresh drivers notes
+
+
+========================================
+Network
+========================================
+
+Intel network Drivers pack
+https://www.intel.com/content/www/us/en/download/15084/intel-ethernet-adapter-complete-driver-pack.html
